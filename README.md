@@ -3,3 +3,4 @@
 
 ## Other links
 * [serverless](https://cloud.google.com/serverless)
+* [Cloud Skills Boost](https://www.cloudskillsboost.google/quests/120?qlcampaign=4l-googlehostedmarketing-37)
