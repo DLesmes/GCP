@@ -17,6 +17,6 @@
 ### Other links
 * [BigQuery](https://cloud.google.com/bigquery)
 * [Smart-Analytics](https://cloud.google.com/solutions/smart-analytics)
-* [Google Cloud console] (https://cloud.google.com/cloud-console)
+* [Google Cloud console](https://cloud.google.com/cloud-console)
 * []()
 
