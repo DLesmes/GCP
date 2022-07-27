@@ -6,4 +6,3 @@
 * [Serverless](https://cloud.google.com/serverless)
 * [Cloud Skills Boost](https://www.cloudskillsboost.google/quests/120?qlcampaign=4l-googlehostedmarketing-37)
 * [Cloud BenchMarking](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison)
-* []()
