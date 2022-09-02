@@ -2,7 +2,7 @@
 
 # Definitions
 
-* sistema legacy (sistema heredado)
+* Sistema legacy (sistema heredado)
 > Un  es un sistema, tecnología o aplicación de software antiguo o desactualizado que sigue en uso dentro de una organización porque sigue desempeñando las funciones para las que fue diseñado"
 
 * Big Query:
@@ -43,3 +43,13 @@
 > * Tiempo real: todos los datos van siendo procesados en el momento (Pub/Sub – Dataflow)
 > * Scheduled Batch: primero se acumulan los datos, y luego se programa el procesamiento de los mismos, generalmente en las noches (Dataflow)
 > * Triggered Batch: cuando tengo determinadas señales en mis datos, eso dispara o activan un flujo de ingesta de datos (Cloud Functions)
+
+# Google Cloud Pub/Sub
+
+Mensajería impulsada por eventos para la ingesta de datos y el movimiento de los mismos.
+
+* Ingestion y entrega de eventos escalables/ persistentes.
+* Patrón de publicación.
+* Servicio global.
+* Integrado con otras herramientas.
+
