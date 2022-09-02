@@ -10,7 +10,7 @@
 * [Cloud BenchMarking](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison)
 
 ## Big Data & ML ft. GCP
-[Notes](https://static.platzi.com/media/public/uploads/slides-curso-big-data-y-machine-learning-con-google-cloud-platform_af4f1a62-7f20-47e2-9c9d-620a3c0ca7b3.pdf), [definitions](https://github.com/DLesmes/GCP/blob/main/content/Definitions.md), content and code for the "Course Big Data y Machine Learning con Google Cloud Platform" of platzi
+[Content](https://static.platzi.com/media/public/uploads/slides-curso-big-data-y-machine-learning-con-google-cloud-platform_af4f1a62-7f20-47e2-9c9d-620a3c0ca7b3.pdf), [definitions](https://github.com/DLesmes/GCP/blob/main/content/Definitions.md), notes and code for the "Course Big Data y Machine Learning con Google Cloud Platform" of platzi
 
 * [Intro](https://francomanca.notion.site/Introducci-n-a-big-data-5b9188480f744b16bf2a8cce9da54d4c)
 
