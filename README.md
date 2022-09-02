@@ -19,4 +19,5 @@
 * [Smart-Analytics](https://cloud.google.com/solutions/smart-analytics)
 * [Google Cloud console](https://cloud.google.com/cloud-console)
 * [DataFlow](https://cloud.google.com/dataflow)
+* [Pub/Sub](https://cloud.google.com/pubsub)
 
