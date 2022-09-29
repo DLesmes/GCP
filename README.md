@@ -22,4 +22,5 @@
 * [Pub/Sub](https://cloud.google.com/pubsub)
 * [AI/ML](https://cloud.google.com/products/ai)
 * [Vertex ai](https://cloud.google.com/vertex-ai)
+* [Vision](https://cloud.google.com/vision)
 
