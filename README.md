@@ -20,4 +20,6 @@
 * [Google Cloud console](https://cloud.google.com/cloud-console)
 * [DataFlow](https://cloud.google.com/dataflow)
 * [Pub/Sub](https://cloud.google.com/pubsub)
+* [AI/ML](https://cloud.google.com/products/ai)
+* [Vertex ai](https://cloud.google.com/vertex-ai)
 
