@@ -9,6 +9,9 @@
 * [Cloud Skills Boost](https://www.cloudskillsboost.google/quests/120?qlcampaign=4l-googlehostedmarketing-37)
 * [Cloud BenchMarking](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison)
 
+## Google Cloud Tools
+* [BigTable](https://cloud.google.com/blog/topics/developers-practitioners/how-big-cloud-bigtable)
+
 ## Big Data & ML ft. GCP
 [Content](https://static.platzi.com/media/public/uploads/slides-curso-big-data-y-machine-learning-con-google-cloud-platform_af4f1a62-7f20-47e2-9c9d-620a3c0ca7b3.pdf), [definitions](https://github.com/DLesmes/GCP/blob/main/content/Definitions.md), notes and code for the "Course Big Data y Machine Learning con Google Cloud Platform" of platzi
 
