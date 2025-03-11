@@ -21,6 +21,7 @@
 
 ### Other links
 * [What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud)
+* [pricing calculator](https://cloud.google.com/products/calculator)
 * [BigQuery](https://cloud.google.com/bigquery)
 * [Smart-Analytics](https://cloud.google.com/solutions/smart-analytics)
 * [Google Cloud console](https://cloud.google.com/cloud-console)
