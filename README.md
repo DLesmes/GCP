@@ -6,7 +6,6 @@
 ### Other links
 * [Explore GCP](https://cloud.withgoogle.com/infrastructure/explore)
 * [Serverless](https://cloud.google.com/serverless)
-* [Cloud Skills Boost](https://www.cloudskillsboost.google/quests/120?qlcampaign=4l-googlehostedmarketing-37)
 * [Cloud BenchMarking](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison)
 
 ## Google Cloud Tools
@@ -19,6 +18,7 @@
 * [Intro](https://francomanca.notion.site/Introducci-n-a-big-data-5b9188480f744b16bf2a8cce9da54d4c)
 
 ### Other links
+* [What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud)
 * [BigQuery](https://cloud.google.com/bigquery)
 * [Smart-Analytics](https://cloud.google.com/solutions/smart-analytics)
 * [Google Cloud console](https://cloud.google.com/cloud-console)
