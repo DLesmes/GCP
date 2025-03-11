@@ -11,6 +11,7 @@
 ## Google Cloud Tools
 * [BigTable](https://cloud.google.com/blog/topics/developers-practitioners/how-big-cloud-bigtable)
 * [gsutil](https://cloud.google.com/storage/docs/gsutil?hl=es-419)
+* [How to built a data lake on GCP](https://cloud.google.com/architecture/build-a-data-lake-on-gcp?hl=es-419)
 
 ## Big Data & ML ft. GCP
 [Content](https://static.platzi.com/media/public/uploads/slides-curso-big-data-y-machine-learning-con-google-cloud-platform_af4f1a62-7f20-47e2-9c9d-620a3c0ca7b3.pdf), [definitions](https://github.com/DLesmes/GCP/blob/main/content/Definitions.md), notes and code for the "Course Big Data y Machine Learning con Google Cloud Platform" of platzi
