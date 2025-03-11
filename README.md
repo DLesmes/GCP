@@ -7,6 +7,7 @@
 * [Explore GCP](https://cloud.withgoogle.com/infrastructure/explore)
 * [Serverless](https://cloud.google.com/serverless)
 * [Cloud BenchMarking](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison)
+* [cloudskillsboost](https://www.cloudskillsboost.google/)
 
 ## Google Cloud Tools
 * [Notes](https://github.com/DLesmes/GCP/blob/main/content/storage_on_gcp.md), content and code of the course "Cloud Storage on GCP"
