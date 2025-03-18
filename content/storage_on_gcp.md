@@ -26,6 +26,13 @@ Several location settings are available:
 
 Choosing the right location depends on where your end-users or services accessing the data are located.  Think global, act local!
 
+**Running from gsutil**
+```bash
+gsutil mb -c standard -l us --pap enforced -b on --retention 10y gs://gemb-platzi-storage-bucket-01
+```
+
+**Where** `-c` is the class `-l` is the type of location we want `--pap` specifies public access `-b` is to enable uniform access Advanced: `--retention` is the retention period for the resource.
+
 **Calculating Storage Costs 💰**
 
 Use the cost calculator in the console to estimate storage expenses based on your configurations. Prices vary based on gigabytes stored and location:
