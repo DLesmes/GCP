@@ -75,3 +75,5 @@ With your instance ready, let's interact with it through Cloud Shell using the `
 BigTable stands out for its robustness and ability to handle massive amounts of distributed data. It's ideal for sectors requiring high scalability and efficiency, such as search engines, big data analytics, and real-time applications.
 
 Keep exploring BigTable, create more complex structures, and discover how this platform can optimize your applications! Every step in your learning journey brings you closer to building efficient and scalable systems. 🌱
+
+### [UP](https://github.com/DLesmes/GCP/blob/main/content/storage_on_gcp.md#home)
