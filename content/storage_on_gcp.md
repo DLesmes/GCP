@@ -28,6 +28,8 @@ First, you need to access the Google Cloud Console. Once there:
 
 With your instance ready, let's interact with it through Cloud Shell using the `cbt` command (short for Cloud BigTable).
 
+**[cbt - documentation](https://cloud.google.com/bigtable/docs/cbt-reference)**
+
 **Initial Cloud Shell Setup:**
 
 1. Open Cloud Shell from your console. 🐚
