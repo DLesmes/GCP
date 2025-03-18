@@ -72,6 +72,11 @@ With your instance ready, let's interact with it through Cloud Shell using the `
   ```
   You'll see the inserted records and their timestamps, which make them unique within the database.
 
+* **Delete the whole table:**
+  ```bash
+  cbt deleteinstance platzi-app-instance
+  ```
+  DO NOT FORGET TO DELETE ALL RESOURCES CREATED
 
 **Why Use BigTable?**
 
