@@ -1,4 +1,5 @@
 ### [Home](https://github.com/DLesmes/GCP/blob/main/README.md#google-cloud-tools)
+---
 
 # Storage on GCP
 ## Services comparisson
@@ -76,4 +77,5 @@ BigTable stands out for its robustness and ability to handle massive amounts of 
 
 Keep exploring BigTable, create more complex structures, and discover how this platform can optimize your applications! Every step in your learning journey brings you closer to building efficient and scalable systems. 🌱
 
+---
 ### [UP](https://github.com/DLesmes/GCP/blob/main/content/storage_on_gcp.md#home)
