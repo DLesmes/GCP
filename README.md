@@ -11,7 +11,9 @@
 
 ## Google Cloud Tools
 * [Notes](https://github.com/DLesmes/GCP/blob/main/content/storage_on_gcp.md), content and code of the course "Cloud Storage on GCP"
+ 
   * [BigTable](https://cloud.google.com/blog/topics/developers-practitioners/how-big-cloud-bigtable)
+  * [Bigtable vs. BigQuery](https://cloud.google.com/blog/topics/developers-practitioners/bigtable-vs-bigquery-whats-difference)
   * [gsutil](https://cloud.google.com/storage/docs/gsutil?hl=es-419)
   * [How to built a data lake on GCP](https://cloud.google.com/architecture/build-a-data-lake-on-gcp?hl=es-419)
   * [Dataproc](https://cloud.google.com/dataproc?hl=es_419)
