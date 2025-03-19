@@ -141,6 +141,19 @@ First, you need to access the Google Cloud Console. Once there:
 
 With your instance ready, let's interact with it through Cloud Shell using the `cbt` command (short for Cloud BigTable).
 
+**Running from gsutil CLI**
+
+  ```bash
+  cbt createinstance quick-start-instance "quick-start-instance" quickstart-instance-c1 us-east1-c 1 SSD
+  ```
+Where
+* `quick-start-instance` es el id
+* `"quick-start-instance"` es el nombre
+* `quickstart-instance-c1` es el id del cluster
+* `us-east1-c` es la región
+* `1` es el numero de nodos
+* `SSD` es el tipo de disco
+
 **[cbt - documentation](https://cloud.google.com/bigtable/docs/cbt-reference)**
 
 **Initial Cloud Shell Setup:**
@@ -148,6 +161,14 @@ With your instance ready, let's interact with it through Cloud Shell using the `
 1. Open Cloud Shell from your console. 🐚
 2. To associate the instance with your project, use a `.cbtrc` file and put in your project ID using the appropriate command.
 3. Indicate that you'll be working with the "quickstart-instance" using the following configuration code. This tells `cbt` which instance to target.
+
+**Running from gsutil CLI**
+  ```bash
+  echo project = `gcloud config get-value project` > ~/.cbtrc
+  ```
+   ```bash
+  echo instance = my-instance >> ~/.cbtrc
+  ```
 
 **Creating and Managing Tables in BigTable**
 
