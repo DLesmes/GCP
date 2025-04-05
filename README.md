@@ -23,7 +23,7 @@
 * [Intro](https://francomanca.notion.site/Introducci-n-a-big-data-5b9188480f744b16bf2a8cce9da54d4c)
 
 ## Containers and Cloud Apps On GCP 🐋
-* [Notes](https://github.com/DLesmes/GCP/blob/main/content/containers_and_cloud_apps_on_gcp.md#home), content and code of the course "Containers and Cloud Apps on GCP"
+* [Notes](https://github.com/DLesmes/GCP/blob/main/content/containers_and_cloud_apps_on_gcp.md#home), [content](https://github.com/DLesmes/GCP/blob/main/content/curso-de-contenedores-y-aplicaciones-en-la-nube-con-google-cloud-platform_1b0001b8-4001-4f23-ba63-4edad9a348ae.pdf) and code of the course "Containers and Cloud Apps on GCP"
  
   * [BigTable](https://cloud.google.com/blog/topics/developers-practitioners/how-big-cloud-bigtable)
 
