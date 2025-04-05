@@ -2,8 +2,6 @@
 ---
 
 # Storage on GCP
-## Services comparisson
-![](https://static.platzi.com/media/user_upload/Screenshot_26-ff620129-2ba2-4c0f-aa8e-78aa6f91cfab.jpg)
 
 ## Storage Decision Tree
 ![](https://1.bp.blogspot.com/-H4a0slANRLg/XXFGsDshuKI/AAAAAAAAAAU/Ov1pyV1IOqQJvSfTJy50eL6dGCrCBHk-wCLcBGAs/s1600/storageoptions.jpg)
@@ -479,6 +477,46 @@ Refresh the GCP console; you should see the "customers" collection populated wit
 **Next Steps: Building Your Application**
 
 Now that you have a database and a customer collection, it's time to build your application! Connect it to your Firestore database, unlocking a world of possibilities. 🌍 Your creativity is the limit!  Keep practicing and experimenting to strengthen your database skills. 🚀
+
+## Distinguishing Cloud Storage Services: Choosing the Right Tool for the Job 🧰☁️
+
+## Services comparisson
+![](https://static.platzi.com/media/user_upload/Screenshot_26-ff620129-2ba2-4c0f-aa8e-78aa6f91cfab.jpg)
+
+Storing and managing data in the cloud is essential.  We've explored various cloud storage options. Now, let's recap and solidify your knowledge. This guide clarifies how to identify and effectively use different cloud storage services.  Feeling confused? Don't worry, we're here to help!
+
+**Firestore: Scalable Storage for Structured Data**
+
+Firestore is a scalable, document-based database, ideal for applications like Google App Engine.  It excels at handling structured data but isn't recommended for relational or analytical tasks.  Think user profiles or product catalogs, scaling efficiently to terabytes. 🧑‍💼🛍️
+
+**Bigtable:  High-Volume, Low-Latency NoSQL Database**
+
+Bigtable is a NoSQL database offering massive data volume and low latency. It's great for handling flat data with heavy reads and writes, like large transactions. Not suitable for ACID transactions (use a relational database for those!). Bigtable is ideal for financial ads and IoT applications, scaling to petabytes. 📈💸
+
+**Cloud Storage:  Your Object Storage Solution**
+
+Cloud Storage is neither SQL nor NoSQL; it's object storage, designed for binary objects and files.  It works well with unstructured data like images, disk backups, and file streaming. 🏞️💾 Not suitable for relational data (names, addresses, phone numbers). Cloud Storage also scales to petabytes.
+
+**Cloud Spanner: Globally Consistent Relational Database**
+
+Cloud Spanner is a globally managed, relational SQL database. Ideal for large data volumes requiring worldwide consistency. Not recommended for small applications due to potential cost. Suitable for ad publishing, inventory management, or global apps like Spotify or YouTube. Also scales to petabytes. 🎶🌎
+
+**Cloud SQL:  Familiar Relational Database in the Cloud**
+
+Cloud SQL is another cloud SQL option, familiar to those with SQL experience. Based on virtual machines, it excels with web frameworks and applications needing relational databases. Not ideal for global scale (use Cloud Spanner for that). Think user credentials and transactions, scaling to terabytes. 🧑‍💻
+
+**Choosing the Best Storage Service for Your Needs**
+
+The right choice depends on your specific needs:
+
+* **Firestore:** For App Engine developers needing scalability without relational structure.
+* **Bigtable:** Large-scale data analysis, especially for IoT and financial applications.
+* **Cloud Storage:** Storing and managing large-scale binary objects or files.
+* **Cloud Spanner:** Global applications requiring worldwide data consistency.
+* **Cloud SQL:** Relational database needs without global scaling requirements.
+
+Choosing wisely sets a strong foundation for efficiency and growth in your cloud project. Use this guide to help make informed decisions!
+
 
 
 
