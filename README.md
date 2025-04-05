@@ -3,7 +3,6 @@
 ## Fundamental
 [Notes](https://trapezoidal-kingfisher-75e.notion.site/Curso-de-Introducci-n-a-Google-Cloud-Platform-004d63b05d494154b81b17af673e194c), content and code for the course "Google Cloud Platform Fundamentals" of platzi
 
-### Other links
 * [Explore GCP](https://cloud.withgoogle.com/infrastructure/explore)
 * [Serverless](https://cloud.google.com/serverless)
 * [Cloud BenchMarking](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison)
@@ -24,7 +23,7 @@
 * [Intro](https://francomanca.notion.site/Introducci-n-a-big-data-5b9188480f744b16bf2a8cce9da54d4c)
 
 ## Containers and Cloud Apps On GCP 🐋
-* [Notes](https://github.com/DLesmes/GCP/blob/main/content/storage_on_gcp.md), content and code of the course "Containers and Cloud Apps on GCP"
+* [Notes](https://github.com/DLesmes/GCP/blob/main/content/containers_and_cloud_apps_on_gcp.md#home), content and code of the course "Containers and Cloud Apps on GCP"
  
   * [BigTable](https://cloud.google.com/blog/topics/developers-practitioners/how-big-cloud-bigtable)
 
