@@ -23,6 +23,11 @@
 
 * [Intro](https://francomanca.notion.site/Introducci-n-a-big-data-5b9188480f744b16bf2a8cce9da54d4c)
 
+## Containers and Cloud Apps On GCP 🐋
+* [Notes](https://github.com/DLesmes/GCP/blob/main/content/storage_on_gcp.md), content and code of the course "Containers and Cloud Apps on GCP"
+ 
+  * [BigTable](https://cloud.google.com/blog/topics/developers-practitioners/how-big-cloud-bigtable)
+
 ### Other links
 * [What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud)
 * [pricing calculator](https://cloud.google.com/products/calculator)
